@@ -1,0 +1,12 @@
+{
+	"daemon": {
+		"bind": "",
+		"port": 53
+	},
+	"ipv6": {
+		"2001:4dd0:fcfd::/48": "ipv6-%%digits%%.leonardtechel.de"
+	},
+	"ipv4": {
+		"172.20.0.0/16": "ipv4-%%digits%%.leonardtechel.de"
+	}
+}
